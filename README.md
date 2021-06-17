@@ -7,6 +7,6 @@ An addon that consolidates and dynamically displays armor penetration info.
 ### Usage:
 - Shift click to move the frame
 - /af or /armorframe for options
-### Ideas to expand if there is demand:
+### Ideas to extend to if there is demand:
 - Expand to other relevant debuffs for uptime
 - Expand class profiles for cross-class debuff uptime for casters
