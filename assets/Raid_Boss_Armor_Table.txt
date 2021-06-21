@@ -1,0 +1,67 @@
+Gruul's Lair:
+High King Maulgar: 7700
+Gruul the Dragonkiller: 7700
+
+Magtheridon's Lair:
+Magtheridon: 7700
+
+Zul'Aman:
+Nalorakk: 7700
+Akil'zon: 7700
+Jan'alai: 7700
+Halazzi: 7700
+Hex Lord Malacrass: 6200
+Zul'jin: 7700
+
+Serpentshrine Cavern:
+Hydross the Unstable: 7700
+The Lurker Below: 7700
+Leotheras the Blind: 7700
+Fathom-Lord Karathress 6200
+Morogrim Tidewalker: 7700
+Lady Vashj: 6200
+
+Tempest Keep:
+Void Reaver: 8800
+High Astromancer Solarian: 6200
+Al'ar: 7700
+Kael'thas Sunstrider: 6200
+
+Hyjal Summit:
+Rage Winterchill: 6200
+Anetheron: 6200
+Kaz'rogal: 6200
+Azgalor: 6200
+Archimonde: 6200
+
+Black Temple:
+High Warlord Naj'entus: 7700
+Supremus: 7700
+Shade of Akama: 7700
+Teron Gorefiend: 6200
+Gurtogg Bloodboil: 7700
+Reliquary of Souls:
+- Essence of Suffering: 0
+- Essence of Desire: 7700
+- Essence of Anger: 7700
+Mother Shahraz: 6200
+Illidari Council:
+- Gathios the Shatterer: 6200
+Illidan Stormrage: 7700
+
+Sunwell Plateau:
+Kalecgos (Dragon): 6200
+- Sathrovarr the Corruptor: 6200
+Brutallus: 7700
+Felmyst: 6200
+The Eredar Twins:
+- Grand Warlock Alythess: 6200
+- Lady Sacrolash: 6200
+M'uru: 7700
+- Shadowsword Fury Mage: 5700
+- Shadowsword Berserker: 7100
+- Void Sentinel: 6800
+
+Notice that all but 2 of the bosses have either 6200 or 7700 armor. A similar pattern occurs in the trash 
+mobs: 5475/5700/5950or 6800/7100/7400 for level 70/71/72 mobs. In terms of percentage reduction, these values 
+result in either 34.15% or 39.15% armor reduction vs attackers of the same level as the mob.

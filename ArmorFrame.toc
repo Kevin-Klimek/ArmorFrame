@@ -1,0 +1,7 @@
+## Interface: 20501
+## Title: Armor Debuff Frame
+## Notes: Displays total ARP vs. current target and net armor of targetted bosses.
+## Author: Haylorn
+## Version: 0.0.2
+
+ArmorFrame.lua
